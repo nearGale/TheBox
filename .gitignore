@@ -1,0 +1,4 @@
+$ cat .gitignore
+/client_TheBox/*
+!/client_TheBox/Assets
+!/client_TheBox/ProjectSettings
